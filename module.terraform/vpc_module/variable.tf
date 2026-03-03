@@ -1,0 +1,4 @@
+variable "vpcip" {}
+variable "vpcname" {
+  
+}

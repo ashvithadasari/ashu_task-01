@@ -1,0 +1,7 @@
+
+variable "tgarn" {
+  
+}
+variable "instanceid" {
+  
+}

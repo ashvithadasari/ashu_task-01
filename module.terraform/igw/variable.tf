@@ -1,0 +1,6 @@
+variable "vpcid" {
+  
+}
+variable "IGW" {
+  
+}
